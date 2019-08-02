@@ -1,5 +1,5 @@
-var y = 1;
-    while (y<10) {
+var y = 0;
+    while (y<=10) {
         console.log(y);
-        y = y+1;
+        y++;
     }
